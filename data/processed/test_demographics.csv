@@ -1,0 +1,201 @@
+gender,age,department,age_group
+Male,16,General Medicine,<30
+Male,50,Neurology,30-49
+Female,15,Neurology,<30
+Male,43,Cardiology,30-49
+Male,24,General Medicine,<30
+Female,42,Cardiology,30-49
+Female,34,Radiology,30-49
+Female,23,Orthopedics,<30
+Female,48,Radiology,30-49
+Male,57,General Medicine,50-69
+Male,26,General Medicine,<30
+Female,58,Orthopedics,50-69
+Female,40,General Medicine,30-49
+Female,38,Orthopedics,30-49
+Female,35,Orthopedics,30-49
+Male,39,Neurology,30-49
+Female,65,Pediatrics,50-69
+Male,42,Pediatrics,30-49
+Female,40,Orthopedics,30-49
+Female,52,Laboratory Services,50-69
+Female,42,Neurology,30-49
+Female,52,Cardiology,50-69
+Male,44,Orthopedics,30-49
+Female,37,Radiology,30-49
+Female,60,Radiology,50-69
+Male,17,Radiology,<30
+Male,31,Pediatrics,30-49
+Female,51,Cardiology,50-69
+Male,6,Laboratory Services,<30
+Female,57,Cardiology,50-69
+Male,64,General Medicine,50-69
+Female,48,Radiology,30-49
+Male,22,Laboratory Services,<30
+Male,18,Radiology,<30
+Female,74,General Medicine,70+
+Male,17,General Medicine,<30
+Female,61,Radiology,50-69
+Female,6,Cardiology,<30
+Female,90,Neurology,70+
+Female,66,Neurology,50-69
+Female,72,General Medicine,70+
+Male,6,Cardiology,<30
+Male,66,Cardiology,50-69
+Female,59,Orthopedics,50-69
+Male,52,Cardiology,50-69
+Male,45,Cardiology,30-49
+Female,68,General Medicine,50-69
+Male,39,Radiology,30-49
+Male,59,Neurology,50-69
+Female,40,Laboratory Services,30-49
+Male,54,Laboratory Services,50-69
+Female,71,Laboratory Services,70+
+Female,37,Neurology,30-49
+Male,71,Pediatrics,70+
+Female,27,Orthopedics,<30
+Female,58,Radiology,50-69
+Male,83,General Medicine,70+
+Female,20,Pediatrics,<30
+Male,45,Neurology,30-49
+Male,29,Neurology,<30
+Male,68,Cardiology,50-69
+Male,1,Laboratory Services,<30
+Female,50,Cardiology,30-49
+Male,39,Cardiology,30-49
+Male,60,Laboratory Services,50-69
+Male,65,Laboratory Services,50-69
+Male,55,Neurology,50-69
+Male,41,Orthopedics,30-49
+Male,53,Orthopedics,50-69
+Female,1,Orthopedics,<30
+Male,43,Neurology,30-49
+Female,57,Cardiology,50-69
+Female,36,Cardiology,30-49
+Female,14,Cardiology,<30
+Female,21,Radiology,<30
+Male,23,Pediatrics,<30
+Male,62,Pediatrics,50-69
+Male,41,Radiology,30-49
+Female,65,General Medicine,50-69
+Female,41,Cardiology,30-49
+Female,58,Neurology,50-69
+Female,27,Radiology,<30
+Male,32,Cardiology,30-49
+Female,44,Radiology,30-49
+Female,50,General Medicine,30-49
+Male,53,Neurology,50-69
+Female,57,Cardiology,50-69
+Male,46,Pediatrics,30-49
+Male,51,Laboratory Services,50-69
+Male,57,Orthopedics,50-69
+Male,35,Radiology,30-49
+Female,48,Radiology,30-49
+Male,81,Neurology,70+
+Female,87,Radiology,70+
+Male,65,General Medicine,50-69
+Male,63,Pediatrics,50-69
+Male,35,Radiology,30-49
+Male,49,Neurology,30-49
+Female,76,Cardiology,70+
+Male,78,Neurology,70+
+Female,51,Neurology,50-69
+Male,64,General Medicine,50-69
+Female,54,Radiology,50-69
+Female,22,Laboratory Services,<30
+Female,52,Radiology,50-69
+Female,32,Orthopedics,30-49
+Female,53,General Medicine,50-69
+Female,29,Orthopedics,<30
+Female,68,Pediatrics,50-69
+Female,51,Laboratory Services,50-69
+Female,46,Orthopedics,30-49
+Male,50,Orthopedics,30-49
+Male,43,Orthopedics,30-49
+Male,66,General Medicine,50-69
+Female,37,Radiology,30-49
+Male,32,Pediatrics,30-49
+Male,58,Radiology,50-69
+Female,57,Orthopedics,50-69
+Female,20,Radiology,<30
+Male,11,Orthopedics,<30
+Female,25,Pediatrics,<30
+Male,38,Neurology,30-49
+Male,23,Cardiology,<30
+Female,56,Laboratory Services,50-69
+Female,34,Pediatrics,30-49
+Female,38,General Medicine,30-49
+Female,57,Neurology,50-69
+Male,39,General Medicine,30-49
+Male,35,Cardiology,30-49
+Male,41,Cardiology,30-49
+Female,49,Neurology,30-49
+Female,56,Radiology,50-69
+Female,35,Cardiology,30-49
+Male,25,Pediatrics,<30
+Female,37,Radiology,30-49
+Female,37,Pediatrics,30-49
+Female,35,Cardiology,30-49
+Male,64,Neurology,50-69
+Female,25,Orthopedics,<30
+Male,47,Radiology,30-49
+Male,52,Neurology,50-69
+Female,24,Cardiology,<30
+Female,66,Orthopedics,50-69
+Female,38,Orthopedics,30-49
+Male,76,Orthopedics,70+
+Male,57,General Medicine,50-69
+Male,39,Pediatrics,30-49
+Female,33,Neurology,30-49
+Female,5,General Medicine,<30
+Female,65,General Medicine,50-69
+Male,33,Cardiology,30-49
+Female,41,Neurology,30-49
+Male,73,Neurology,70+
+Female,48,Laboratory Services,30-49
+Female,42,Orthopedics,30-49
+Female,43,General Medicine,30-49
+Male,40,Neurology,30-49
+Female,53,Laboratory Services,50-69
+Male,39,Pediatrics,30-49
+Female,54,Orthopedics,50-69
+Female,54,General Medicine,50-69
+Female,90,Neurology,70+
+Female,31,Radiology,30-49
+Male,78,Neurology,70+
+Female,39,Laboratory Services,30-49
+Male,30,Orthopedics,<30
+Male,12,Laboratory Services,<30
+Female,38,Neurology,30-49
+Male,40,Radiology,30-49
+Female,42,Neurology,30-49
+Female,10,Pediatrics,<30
+Male,35,Radiology,30-49
+Male,12,General Medicine,<30
+Female,30,Neurology,<30
+Female,13,Cardiology,<30
+Female,31,Neurology,30-49
+Male,22,Neurology,<30
+Female,25,Radiology,<30
+Male,50,Cardiology,30-49
+Male,38,Orthopedics,30-49
+Male,35,General Medicine,30-49
+Female,61,Pediatrics,50-69
+Female,47,General Medicine,30-49
+Female,77,Radiology,70+
+Male,44,Neurology,30-49
+Female,41,Radiology,30-49
+Female,68,Orthopedics,50-69
+Male,25,General Medicine,<30
+Male,40,Laboratory Services,30-49
+Female,50,Neurology,30-49
+Female,28,General Medicine,<30
+Male,68,Radiology,50-69
+Male,56,Orthopedics,50-69
+Female,37,Cardiology,30-49
+Male,47,Radiology,30-49
+Female,54,Orthopedics,50-69
+Male,42,Cardiology,30-49
+Male,51,Cardiology,50-69
+Male,35,Neurology,30-49
+Female,40,Laboratory Services,30-49
