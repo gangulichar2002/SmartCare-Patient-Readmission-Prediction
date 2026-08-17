@@ -1,0 +1,62 @@
+feature,mean_abs_shap
+room_type_Not Admitted,1.2891989109646178
+admitted,1.2763028233332019
+age,0.5098384261547004
+length_of_stay_days,0.45186927342832767
+bmi,0.4248312506464454
+appointment_month,0.4182309176238695
+total_bill_lkr,0.3956606090655702
+previous_admissions,0.3458343247547991
+zero_room_charge_flag,0.28590335640361625
+room_type_Unknown,0.28590335640361625
+waiting_days,0.2639904192039363
+admission_status_conflict,0.25420793442238154
+missed_previous_appointments,0.2532800197505852
+bmi_category,0.2458716817626336
+missed_appointment_rate,0.22057620807742165
+appointment_status_No-Show,0.18605388858293703
+avg_charge_per_treatment,0.16458749506800394
+payment_status_Partially Paid,0.1645292565297531
+diagnosis_Fracture,0.13959518689900718
+department_Orthopedics,0.1157967715558085
+appointment_status_Scheduled,0.11038074029327333
+appointment_dayofweek,0.10715875128629807
+total_prior_visits,0.10040227399767235
+department_Pediatrics,0.09996694076477841
+payment_method_Online,0.09905795073960745
+payment_status_Unpaid,0.09710005521484982
+blood_group_O-,0.09513350328905776
+blood_group_A-,0.09498538281941682
+previous_appointments,0.0778973015343467
+diagnosis_Kidney Infection,0.07571154110710515
+diagnosis_Pneumonia,0.07472433854207225
+treatments_count,0.0744270063292003
+diagnosis_Migraine,0.07340678494321869
+diagnosis_Chest Pain,0.07146953593986848
+blood_group_O+,0.07040533461916224
+is_weekend_appointment,0.06961472551803358
+blood_group_AB+,0.06944637772476989
+systolic_bp,0.06712396441012722
+department_General Medicine,0.06430419573541321
+blood_group_B+,0.059662927434252895
+high_utilisation,0.05748141803004247
+payment_method_Insurance,0.056014571877763195
+blood_sugar_mg_dl,0.05521091649151228
+payment_method_Cash,0.05278329678423584
+blood_group_AB-,0.049235044224271655
+diastolic_bp,0.049201624766655974
+appointment_status_Completed,0.04855038409729258
+diagnosis_Hypertension,0.04619612820040043
+cholesterol_mg_dl,0.04570129295154404
+blood_group_B-,0.045613196923674326
+department_Neurology,0.03726856543531052
+diagnosis_Back Pain,0.03338472276500189
+diagnosis_Diabetes,0.02745373080053056
+department_Radiology,0.02350739275133256
+department_Laboratory Services,0.015289046486051307
+bp_category,0.013455674001395806
+room_type_ICU,0.007731009157321929
+diagnosis_Fever,0.00622597949407151
+gender_Male,0.006109277446477205
+lab_tests_count,0.003200848873344432
+room_type_Private Room,0.0012139263233592653

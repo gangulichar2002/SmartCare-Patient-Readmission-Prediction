@@ -1,8 +1,8 @@
 Model,Best Hyperparameters,Training Time (s)
-Logistic Regression,"{'C': 1, 'penalty': 'l2', 'solver': 'lbfgs'}",25.6
-Decision Tree,"{'criterion': 'gini', 'max_depth': 3, 'min_samples_leaf': 10}",3.2
-Random Forest,"{'max_depth': None, 'min_samples_leaf': 5, 'n_estimators': 100}",12.8
-SVM,"{'C': 10, 'kernel': 'rbf'}",2.3
-Naive Bayes,{'var_smoothing': 1e-09},0.2
-KNN,"{'n_neighbors': 15, 'weights': 'distance'}",1.6
-XGBoost,"{'learning_rate': 0.1, 'max_depth': 3, 'n_estimators': 100}",10.8
+Logistic Regression,"{'C': 1, 'penalty': 'l2', 'solver': 'lbfgs'}",4.7
+Decision Tree,"{'criterion': 'gini', 'max_depth': 3, 'min_samples_leaf': 10}",0.5
+Random Forest,"{'max_depth': None, 'min_samples_leaf': 5, 'n_estimators': 100}",3.2
+SVM,"{'C': 10, 'kernel': 'rbf'}",0.7
+Naive Bayes,{'var_smoothing': 1e-09},0.1
+KNN,"{'n_neighbors': 15, 'weights': 'distance'}",0.4
+XGBoost,"{'learning_rate': 0.1, 'max_depth': 3, 'n_estimators': 100}",3.7
